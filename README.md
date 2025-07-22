@@ -9,4 +9,4 @@ Data loading, cleaning, and preprocessing
 Model training and evaluation
 Visualizing model performance using Python libraries (Matplotlib, Seaborn)
 A Power BI report for interactive visual exploration of the results
-Also I use Jupyter notebook too
+Also I use Jupyter notebook.
