@@ -13,7 +13,6 @@ def visualization():
     plt.xticks(rotation=0)
     plt.grid(axis='y')    
     plt.savefig("data/model_performance.png")
-    plt.show()
     plt.close() 
     
 
