@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-from training import training
+from supervised.training import training
 
 
 def visualization():
